@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33B1E9&background=B8B8B800&center=true&multiline=true&width=500&height=100&lines=Emerson+Gonz%C3%A1lez+R.;Back-end+Developer)](https://git.io/typing-svg)
 
 <!--
 **emersondivB0/emersondivB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
