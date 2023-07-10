@@ -10,59 +10,68 @@
 
  <h2>Skills and Tools</h2>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h3>Programming Languages</h3>
-    <ul>
-      <li>Python</li>
-      <li>Java</li>
-      <li>MATLAB</li>
-      <li>Octave</li>
-      <li>Turbo Pascal</li>
-      <li>Proton</li>
-      <li>PIC Assembly</li>
-    </ul>
-
-    <h3>Frameworks and Technologies</h3>
-    <ul>
-      <li>Spring</li>
-      <li>Spring Boot</li>
-      <li>JSON</li>
-      <li>JWT (JSON Web Tokens)</li>
-      <li>MySQL</li>
-      <li>SQLite</li>
-    </ul>
-
-    <h3>Development Tools and Environments</h3>
-    <ul>
-      <li>Git</li>
-      <li>GitHub</li>
-      <li>IntelliJ IDEA</li>
-      <li>Neovim</li>
-      <li>Visual Studio Code</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>Scientific and Mathematical Skills</h3>
-    <ul>
-      <li>Applied Electromagnetism</li>
-      <li>Multi-variable Calculus</li>
-      <li>Antenna Design</li>
-      <li>Electronics</li>
-    </ul>
-
-    <h3>Operating Systems</h3>
-    <ul>
-      <li>Linux (Arch, Debian)</li>
-    </ul>
-
-    <h3>Document Preparation</h3>
-    <ul>
-      <li>LaTeX</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Programming Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>MATLAB</li>
+        <li>Octave</li>
+        <li>Turbo Pascal</li>
+        <li>Proton</li>
+        <li>PIC Assembly</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Frameworks and Technologies</h3>
+      <ul>
+        <li>Spring</li>
+        <li>Spring Boot</li>
+        <li>JSON</li>
+        <li>JWT (JSON Web Tokens)</li>
+        <li>MySQL</li>
+        <li>SQLite</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Development Tools and Environments</h3>
+      <ul>
+        <li>Git</li>
+        <li>GitHub</li>
+        <li>IntelliJ IDEA</li>
+        <li>Neovim</li>
+        <li>Visual Studio Code</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Scientific and Mathematical Skills</h3>
+      <ul>
+        <li>Applied Electromagnetism</li>
+        <li>Multi-variable Calculus</li>
+        <li>Antenna Design</li>
+        <li>Electronics</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Operating Systems</h3>
+      <ul>
+        <li>Linux (Arch, Debian)</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Document Preparation</h3>
+      <ul>
+        <li>LaTeX</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <div style="display: flex; align-items: flex-start;">
