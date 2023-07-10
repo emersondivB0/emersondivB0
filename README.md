@@ -19,9 +19,9 @@
         <li>Java</li>
         <li>MATLAB</li>
         <li>Octave</li>
-        <li>Turbo Pascal</li>
-        <li>Proton</li>
-        <li>PIC Assembly</li>
+        <li>Turbo Pascal (not employing)</li>
+        <li>Proton (not employing)</li>
+        <li>PIC Assembly (not employing)</li>
       </ul>
     </td>
     <td>
@@ -62,6 +62,7 @@
       <h3>Operating Systems</h3>
       <ul>
         <li>Linux (Arch, Debian)</li>
+        <li>Windows</li>
       </ul>
     </td>
     <td>
