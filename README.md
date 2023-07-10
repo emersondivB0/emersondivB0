@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondivB0&hide=contribs,prs,stars&show_icons=true&theme=transparent)
+--><div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=emersondivB0&hide=contribs,prs,stars&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondivB0&layout=compact&show_icons=true&theme=transparent" alt="Top Langs">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondivB0&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
