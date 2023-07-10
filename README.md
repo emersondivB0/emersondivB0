@@ -19,9 +19,9 @@
         <li>Java</li>
         <li>MATLAB</li>
         <li>Octave</li>
-        <li>Turbo Pascal (not employing)</li>
-        <li>Proton (not employing)</li>
-        <li>PIC Assembly (not employing)</li>
+        <li><s>Turbo Pascal</s></li>
+        <li><s>Proton</s></li>
+        <li><s>PIC Assembly</s></li>
       </ul>
     </td>
     <td>
