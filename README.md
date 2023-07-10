@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=emersondivB0&hide=contribs,prs,stars&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondivB0&layout=compact&show_icons=true&theme=transparent" alt="Top Langs">
+  <img height=100 align="left" src="https://github-readme-stats.vercel.app/api?username=emersondivB0&hide=contribs,prs,stars&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <img height=100 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondivB0&layout=compact&show_icons=true&theme=transparent" alt="Top Langs">
 </div>
 
