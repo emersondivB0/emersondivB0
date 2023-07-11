@@ -15,10 +15,10 @@
     <td>
       <h3>Programming Languages</h3>
       <ul>
-        <li><img src="images/python.svg" alt="Python" width="12" height="12"> Python</li>
-        <li>Java</li>
-        <li>MATLAB</li>
-        <li>Octave</li>
+        <li><img src="images/python.svg" alt="python" width="12" height="12"> Python</li>
+        <li><img src="images/java.svg" alt="java" width="12" height="12"> Java</li>
+        <li><img src="images/icons/matlab/matlab-original.svg" alt="matlab" width="12" height="12"> MATLAB</li>
+        <li><img src="images/octave.svg" alt="octave" width="12" height="12"> Octave</li>
         <li><s>Turbo Pascal</s></li>
         <li><s>Proton</s></li>
         <li><s>PIC Assembly</s></li>
