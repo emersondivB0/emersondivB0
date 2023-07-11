@@ -50,7 +50,7 @@
     <td>
       <h3>Scientific and Mathematical Skills</h3>
       <ul>
-        <li><img src="images/electromagneism.png" alt="electromagnetism" width="12" height="12"> Applied Electromagnetism</li>
+        <li><img src="images/electromagnetism.png" alt="electromagnetism" width="12" height="12"> Applied Electromagnetism</li>
         <li><img src="images/calculus.png" alt="calculus" width="12" height="12"> Multi-variable Calculus</li>
         <li><img src="images/antenna.svg" alt="antenna" width="12" height="12"> Antennas Design</li>
         <li><img src="images/electronics.svg" alt="electronics" width="12" height="12"> Electronics</li>
