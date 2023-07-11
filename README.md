@@ -15,7 +15,7 @@
     <td>
       <h3>Programming Languages</h3>
       <ul>
-        <li><img src="images/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></li>
+        <li><img src="images/python.svg" alt="Python" width="20" height="20"> Python</li>
         <li>Java</li>
         <li>MATLAB</li>
         <li>Octave</li>
