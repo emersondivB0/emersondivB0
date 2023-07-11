@@ -27,12 +27,12 @@
     <td>
       <h3>Frameworks and Technologies</h3>
       <ul>
-        <li>Spring</li>
-        <li>Spring Boot</li>
-        <li>JSON</li>
-        <li>JWT (JSON Web Tokens)</li>
-        <li>MySQL</li>
-        <li>SQLite</li>
+        <li><img src="images//icons/spring/spring-original.svg" alt="spring" width="12" height="12"> Spring</li>
+        <li><img src="https://www.clipartmax.com/png/small/274-2747964_house-points-spring-boot-svg.png" alt="spring-boot" width="12" height="12"> Spring Boot</li>
+        <li><img src="images/json.svg" alt="json" width="12" height="12"> JSON</li>
+        <li><img src="images/jwt.svg" alt="jwt" width="12" height="12"> JWT (JSON Web Tokens)</li>
+        <li><img src="images/icons/mysql/mysql-original.svg" alt="mysql" width="12" height="12"> MySQL</li>
+        <li><img src="images/icons/sqlite/sqlite-original.svg" alt="sqlite" width="12" height="12"> SQLite</li>
       </ul>
     </td>
   </tr>
@@ -40,20 +40,20 @@
     <td>
       <h3>Development Tools and Environments</h3>
       <ul>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>IntelliJ IDEA</li>
-        <li>Neovim</li>
+        <li><img src="images/icons/git/git-original.svg" alt="git" width="12" height="12"> Git</li>
+        <li><img src="images/icons/github/github-original.svg" alt="github" width="12" height="12"> GitHub</li>
+        <li><img src="images/icons/intellij/intellij-original.svg" alt="intellij" width="12" height="12"> IntelliJ IDEA</li>
+        <li><img src="images/neovim.svg" alt="neovim" width="12" height="12"> Neovim</li>
         <li>Visual Studio Code</li>
       </ul>
     </td>
     <td>
       <h3>Scientific and Mathematical Skills</h3>
       <ul>
-        <li>Applied Electromagnetism</li>
-        <li>Multi-variable Calculus</li>
-        <li>Antenna Design</li>
-        <li>Electronics</li>
+        <li><img src="images/electromagneism-png" alt="electromagnetism" width="12" height="12"> Applied Electromagnetism</li>
+        <li><img src="images/calculus.png" alt="calculus" width="12" height="12"> Multi-variable Calculus</li>
+        <li><img src="images/antenna.svg" alt="antenna" width="12" height="12"> Antennas Design</li>
+        <li><img src="images/electronics.svg" alt="electronics" width="12" height="12"> Electronics</li>
       </ul>
     </td>
   </tr>
@@ -61,14 +61,14 @@
     <td>
       <h3>Operating Systems</h3>
       <ul>
-        <li>Linux (Arch, Debian)</li>
-        <li>Windows</li>
+        <li><img src="images/icons/linux/linux-original.svg" alt="linux" width="12" height="12"> Linux (Arch, Debian)</li>
+        <li><img src="images/icons/windows8/windows8-original.svg" alt="windows" width="12" height="12"> Windows</li>
       </ul>
     </td>
     <td>
       <h3>Document Preparation</h3>
       <ul>
-        <li>LaTeX</li>
+        <li><img src="images/icons/latex/latex-original.svg" alt="latex" width="12" height="12"> LaTeX</li>
       </ul>
     </td>
   </tr>
