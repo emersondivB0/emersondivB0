@@ -19,9 +19,9 @@
         <li><img src="images/java.svg" alt="java" width="12" height="12"> Java</li>
         <li><img src="images/icons/matlab/matlab-original.svg" alt="matlab" width="12" height="12"> MATLAB</li>
         <li><img src="images/octave.svg" alt="octave" width="12" height="12"> Octave</li>
-        <li><s>Turbo Pascal</s></li>
-        <li><s>Proton</s></li>
-        <li><s>PIC Assembly</s></li>
+        <li><s><img src="images/pascal.svg" alt="pascal" width="12" height="12"> Turbo Pascal</s></li>
+        <li><s><img src="images/proton.png" alt="proton" width="12" height="12"> Proton Basic</s></li>
+        <li><s><img src="images/assembler.png" alt="assembler" width="12" height="12"> PIC Assembly</s></li>
       </ul>
     </td>
     <td>
