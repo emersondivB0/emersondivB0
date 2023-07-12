@@ -82,9 +82,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondivB0&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Langs" style="height: 100%; width: 30%;">
 </div>
 
-[[<a href="[https://www.buymeacoffee.com/mokkapps](https://bmc.link/emersondvlF)" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>](https://bmc.link/emersondvlF)](https://bmc.link/emersondvlF)
+<a href="https://bmc.link/emersondvlF" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+</a>
+
 
 <!--
 **emersondivB0/emersondivB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
