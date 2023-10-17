@@ -70,7 +70,7 @@
     <td>
       <h3>Document Preparation</h3>
       <ul>
-        <li><img src="images/icons/latex/latex-original.svg" alt="latex" width="12" height="12"> LaTeX</li>
+        <li><img src="images/latex.svg" alt="latex" width="12" height="12"> LaTeX</li>
       </ul>
     </td>
   </tr>
