@@ -8,7 +8,11 @@
 
 </br>
 
- 🌱 I’m currently learning Advanced queries on SQL/MySQL and OCI structure.
+ 🌱 Eelctrical Engineer, specialized on Telecom.
+
+
+ 🌱 Finished Professional Program in Advanced queries on SQL/MySQL and OCI structure.
+
 
  <h2>Skills and Tools</h2>
 
