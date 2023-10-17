@@ -8,7 +8,7 @@
 
 </br>
 
- 🌱 Eelctrical Engineer, specialized on Telecom.
+ 🌱 Electrical Engineer, specialized on Telecom.
 
 
  🌱 Finished Professional Program in Advanced queries on SQL/MySQL and OCI structure.
